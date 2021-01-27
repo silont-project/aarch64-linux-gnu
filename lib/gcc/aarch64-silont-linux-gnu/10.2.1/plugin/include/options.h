@@ -9262,7 +9262,7 @@ enum opt_code
   OPT_fprofile_prefix_path_ = 1283,          /* -fprofile-prefix-path= */
   OPT_fprofile_reorder_functions = 1284,     /* -fprofile-reorder-functions */
   OPT_fprofile_report = 1285,                /* -fprofile-report */
-  OPT_fprofile_reproducible = 1286,          /* -fprofile-reproducible */
+  OPT_fprofile_reproducible_ = 1286,         /* -fprofile-reproducible= */
   OPT_fprofile_update_ = 1287,               /* -fprofile-update= */
   OPT_fprofile_use = 1288,                   /* -fprofile-use */
   OPT_fprofile_use_ = 1289,                  /* -fprofile-use= */
